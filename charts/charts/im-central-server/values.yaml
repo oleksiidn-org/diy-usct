@@ -1,0 +1,8 @@
+---
+tokenPin: "1234"
+serverImage: "oleksiidn/usct-x-road-cs"
+serverTag: "latest-cs"
+
+container:
+  image: harbor.k-space.ee/gov-stack/central-server
+  tag: latest
